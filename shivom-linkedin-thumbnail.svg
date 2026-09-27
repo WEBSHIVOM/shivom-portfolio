@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627">
+<defs><radialGradient id="glow"><stop stop-color="#1a281c"/><stop offset="1" stop-color="#101411"/></radialGradient></defs>
+<rect width="1200" height="627" fill="url(#glow)"/><rect x="22" y="22" width="1156" height="583" rx="12" fill="none" stroke="#475646"/><path d="M58 88H1142" stroke="#3e4b3f"/>
+<text x="61" y="67" font-family="Arial" font-size="29" font-weight="700" fill="#f1f2e9">SP<tspan fill="#c2f27a">.</tspan></text><text x="889" y="63" font-family="monospace" font-size="14" fill="#9ba99b">PORTFOLIO / 2026</text>
+<circle cx="70" cy="130" r="6" fill="#c2f27a"/><text x="91" y="136" font-family="monospace" font-size="14" fill="#c2f27a">SENIOR ENGINEERING LEAD / INDIA</text>
+<g font-family="Arial" font-weight="700" font-size="76" fill="#f1f2e9"><text x="60" y="237">SHIVOM</text><text x="60" y="311">PANDEY</text></g>
+<text x="64" y="378" font-family="Arial" font-size="31" fill="#c2f27a">Engineering Lead</text><text x="64" y="423" font-family="Arial" font-size="21" fill="#a6b2a6">AI · Distributed Systems · Cloud</text><text x="64" y="477" font-family="Arial" font-size="19" fill="#d5ddd2">10+ years building products that scale.</text>
+<g fill="none" stroke="#3f543f"><circle cx="875" cy="331" r="178" opacity=".65"/><ellipse cx="875" cy="331" rx="228" ry="113" stroke-width="2"/></g>
+<circle cx="875" cy="331" r="94" fill="#1a271c" stroke="#c2f27a" stroke-opacity=".35" stroke-width="9"/><circle cx="875" cy="331" r="89" fill="none" stroke="#658450" stroke-width="2"/><text x="832" y="333" font-family="Arial" font-weight="700" font-size="59" fill="#f1f2e9">SP</text><text x="810" y="379" font-family="monospace" font-size="11" fill="#acc0a1">BUILD WITH INTENT</text>
+<g font-family="monospace" font-size="12" text-anchor="middle" fill="#dae1d7"><g><rect x="829" y="116" width="92" height="32" rx="3" fill="#151e16" stroke="#4a5b48"/><text x="875" y="136">AI / ML</text></g><g><rect x="1038" y="315" width="84" height="32" rx="3" fill="#151e16" stroke="#4a5b48"/><text x="1080" y="335">CLOUD</text></g><g><rect x="821" y="514" width="108" height="32" rx="3" fill="#151e16" stroke="#4a5b48"/><text x="875" y="534">SYSTEMS</text></g><g><rect x="618" y="315" width="104" height="32" rx="3" fill="#151e16" stroke="#4a5b48"/><text x="670" y="335">PRODUCT</text></g></g>
+<circle cx="839" cy="156" r="5" fill="#c2f27a"/><circle cx="1007" cy="458" r="4" fill="#c2f27a"/>
+<text x="62" y="577" font-family="monospace" font-size="13" fill="#8d9d8e">JAVA · GO · GENAI · GCP · AWS</text><text x="860" y="577" font-family="monospace" font-size="14" fill="#c2f27a">shivom-portfolio-eta.vercel.app</text>
+</svg>
